@@ -1,0 +1,20 @@
+title: MEMBERSHIP CARD
+originalAuthor: danimalforlife
+description: Fixes the Membership Card
+dependencies: 
+
+
+
+assets:
+###Membership Card Object###
+- name: remastered/obj/F_HB690.mdlx/-0.dds
+  method: copy
+  source:
+  - name: wallpeO/membershipcard.dds
+
+
+###Membership Card Item Icon###
+- name: remastered/itempic/item-232.imd/-0.dds
+  method: copy
+  source:
+  - name: wallpeO/itemcard.dds
